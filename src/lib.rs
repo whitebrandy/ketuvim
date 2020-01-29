@@ -13,7 +13,6 @@
 // limitations under the License.
 
 pub mod arch;
-pub mod sev;
 pub mod util;
 
 mod cpu;
